@@ -81,3 +81,4 @@ main{
 .selecao-de-personagens .personagem-grande.personagem-jogador-2 .nome::before{
     background-color: var(--cor-vermelha-principal);
 }
+
