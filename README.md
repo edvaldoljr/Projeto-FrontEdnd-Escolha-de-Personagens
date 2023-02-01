@@ -498,9 +498,11 @@ personagens.forEach((personagem) => {
 });
 ```
 
-## Acesso o Link e escolha seu Personagem favorito:
+## Acesso o Link e escolha seu Personagem favorito: 
 
 **https://edvaldoljr.github.io/Projeto-Personagens-Marvel-MapaDev-Week-2022/**
+
+A nossa aplicação está atualmente hospedada no GitPages, um serviço de hospedagem de páginas da web baseado em Git. Com ele, é possível publicar facilmente seus projetos e torná-los acessíveis ao público com apenas alguns cliques. Além disso, o GitPages oferece uma plataforma estável e confiável para que você possa ter certeza de que sua aplicação estará sempre disponível para seus usuários. Não perca mais tempo e experimente!
 
 ![](https://github.com/edvaldoljr/Projeto-FrontEdnd-Escolha-de-Personagens/blob/main/src/imagens/img-projeto.gif?raw=true)
 
