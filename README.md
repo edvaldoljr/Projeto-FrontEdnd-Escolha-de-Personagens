@@ -2,7 +2,26 @@
 
 Bem-vindo à aplicação de escolha de personagem! Esta aplicação foi criada com o objetivo de permitir que os usuários escolham o personagem de sua preferência entre uma lista de opções. Os personagens são apresentados em uma lista visual, onde o usuário pode passar o mouse sobre cada um para obter mais informações sobre ele. Ao selecionar o personagem, ele é destacado na tela e suas informações, incluindo imagem e nome, são exibidas na seção de jogador 1. Além disso, a aplicação possui a funcionalidade de impedir a seleção do personagem Freeza. Esta aplicação é fácil de usar e proporciona uma experiência de escolha de personagem divertida e intuitiva. Experimente agora e escolha seu personagem favorito!
 
-# **HTML**
+## Para desenvolver essa aplicação de escolha de personagem, os seguintes requisitos devem ser considerados:
+
+- Interface gráfica: a aplicação precisa ter uma interface fácil de usar, com uma lista visual de personagens e uma seção de jogador 1 para exibir as informações do personagem selecionado.
+- Lógica de seleção: a aplicação precisa ser programada para permitir a seleção de um personagem e destacá-lo na tela, exibindo suas informações na seção de jogador 1.
+- Restrição de seleção: a aplicação precisa ser programada para impedir a seleção do personagem Freeza.
+- Testes: é importante realizar testes para garantir a funcionalidade da aplicação e corrigir possíveis bugs.
+
+## Requisitos técnicos incluem:
+
+- Conhecimento de HTML para estruturar a página e definir a estrutura de conteúdo.
+- Conhecimento de CSS para estilizar a página e torná-la atrativa para o usuário.
+- Conhecimento de JavaScript para adicionar interatividade à página, como a funcionalidade de seleção de personagem e exibição de informações.
+- Conhecimento de DOM (Document Object Model) para manipular e atualizar elementos da página de acordo com ações do usuário.
+- Conhecimento de boas práticas de programação, como organização do código e manutenção do código.
+
+Além disso, um navegador web moderno e uma conexão à internet são requisitos básicos para que a aplicação possa ser acessada pelos usuários.
+
+# Desenvolvimento:
+
+##  **HTML**
 
 ## index.html
 
