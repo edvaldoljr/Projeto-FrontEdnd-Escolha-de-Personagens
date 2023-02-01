@@ -1,5 +1,7 @@
 # **Projeto Escolha de Personagem**
 
+![](https://github.com/edvaldoljr/Projeto-FrontEdnd-Escolha-de-Personagens/blob/main/src/imagens/img-projeto.gif?raw=true)
+
 Bem-vindo à aplicação de escolha de personagem! Esta aplicação foi criada com o objetivo de permitir que os usuários escolham o personagem de sua preferência entre uma lista de opções. Os personagens são apresentados em uma lista visual, onde o usuário pode passar o mouse sobre cada um para obter mais informações sobre ele. Ao selecionar o personagem, ele é destacado na tela e suas informações, incluindo imagem e nome, são exibidas na seção de jogador 1. Além disso, a aplicação possui a funcionalidade de impedir a seleção do personagem Freeza. Esta aplicação é fácil de usar e proporciona uma experiência de escolha de personagem divertida e intuitiva. Experimente agora e escolha seu personagem favorito!
 
 ## Para desenvolver essa aplicação de escolha de personagem, os seguintes requisitos devem ser considerados:
@@ -522,8 +524,6 @@ personagens.forEach((personagem) => {
 **https://edvaldoljr.github.io/Projeto-Personagens-Marvel-MapaDev-Week-2022/**
 
 A nossa aplicação está atualmente hospedada no GitPages, um serviço de hospedagem de páginas da web baseado em Git. Com ele, é possível publicar facilmente seus projetos e torná-los acessíveis ao público com apenas alguns cliques. Além disso, o GitPages oferece uma plataforma estável e confiável para que você possa ter certeza de que sua aplicação estará sempre disponível para seus usuários. Não perca mais tempo e experimente!
-
-![](https://github.com/edvaldoljr/Projeto-FrontEdnd-Escolha-de-Personagens/blob/main/src/imagens/img-projeto.gif?raw=true)
 
 # ⭐️ **Deixe um Star** ⭐️
 
